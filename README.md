@@ -276,7 +276,7 @@
             </h3>
         </div>
         <p>
-            Désolé... nous n'avons pas de scoop...
+            Désolé... nous n'avons pas de scoop pour l'instant...
         </p>
     </section>
 
