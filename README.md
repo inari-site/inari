@@ -276,10 +276,7 @@
             </h3>
         </div>
         <p>
-            Voici la section information. C’est l'endroit idéal pour savoir ce qui ce passe dans notre groupe! Alors...
-            qu'y à-t-il aujourd'hui... Ah! Voilà un scoop!
-            Nous savons maintenant que le 11 juin 2022 aura lieux la première compétition Inari! Ça n'arrive qu'une
-            fois par an! YOUPI!!!🥳
+            Désolé... nous n'avons pas de scoop...
         </p>
     </section>
 
